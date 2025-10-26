@@ -15,3 +15,4 @@ def print_description(name, price):
 
 
 print_description("Apples", 200)
+print_description("Avocado", 260)
